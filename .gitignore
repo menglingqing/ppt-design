@@ -1,0 +1,11 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+
+# 临时导出（正式产出请提交到 slides/ 下对应目录）
+*.tmp
+~$*.pptx
